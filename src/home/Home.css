@@ -1,0 +1,27 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-left: 65px;
+}
+.home_header {
+  display: flex;
+  align-items: center;
+}
+.home_header_value {
+  padding: 5px;
+}
+
+#head_value {
+  font-size: 30px;
+  font-weight: 700;
+}
+.home_left {
+  display: flex;
+  align-items: center;
+}
+.date {
+  background: #627dff;
+  width: 200px;
+  text-align: center;
+}
